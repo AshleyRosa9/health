@@ -1,3 +1,4 @@
+This code is very helpful for any issues relating to drug addiction as it informs everyone about drug detox (https://www.auroraserenitycenter.com/wisconsin/milwaukee/)
 # gocraft/health [![GoDoc](https://godoc.org/github.com/gocraft/health?status.png)](https://godoc.org/github.com/gocraft/health)
 
 gocraft/health allows you to instrument your service for logging and metrics, and then send that instrumentation to log files, StatsD, Bugsnag, or to be polled and aggregated via a JSON API.
